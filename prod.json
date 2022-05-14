@@ -1,0 +1,8 @@
+{
+    "host": "https://w79.stgame.win/bcbundles",
+    "BC_PACKAGE": {
+        "enable": true,
+        "native": "0c58b",
+        "web": "8523d"
+    }
+}
