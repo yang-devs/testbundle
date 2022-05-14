@@ -1,0 +1,8 @@
+{
+    "host": "https://build.bancataydu.me/bundles",
+    "BC_PACKAGE": {
+        "enable": true,
+        "native": "0c58b",
+        "web": "8523d"
+    }
+}
